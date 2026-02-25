@@ -79,3 +79,5 @@ This document is not a rulebook; it is open-source DNA. We are open-sourcing the
 **To the Thinkers:** Fork this manifesto. Decompose its flaws. Improve the logic.
 
 **To Everyone:** You do not need to agree on the final destination today. We only ask that you agree to start building the bridge.
+
+**Ready to contribute?** Read the [Contributing Guide](CONTRIBUTING.md).
